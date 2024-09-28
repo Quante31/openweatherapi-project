@@ -15,6 +15,7 @@ public class WeatherGlobal {
 	private Rain rain;
 	private Clouds clouds;
 	private int dt;
+	private Sys sys;
 	private int timezone;
 	private int id;
 	private String name;
@@ -73,6 +74,12 @@ public class WeatherGlobal {
 	public void setDt(int dt) {
 		this.dt = dt;
 	}
+	public Sys getSys() {
+		return sys;
+	}
+	public void setSys(Sys sys) {
+		this.sys = sys;
+	}
 	public int getTimezone() {
 		return timezone;
 	}
@@ -97,4 +104,5 @@ public class WeatherGlobal {
 	public void setCod(int cod) {
 		this.cod = cod;
 	}
+	
 }
