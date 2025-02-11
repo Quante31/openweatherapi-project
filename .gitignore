@@ -1,0 +1,28 @@
+# Eclipse settings
+.settings/
+app/.settings/
+
+# Compiled binaries
+bin/
+app/bin/
+
+# Gradle-specific files
+.gradle/
+build/
+app/build/
+
+# Eclipse metadata files
+.classpath
+.project
+
+# Dependency caches and logs
+.gradle/
+**/out/
+**/tmp/
+**/logs/
+
+# Java compiled files
+*.class
+*.jar
+*.war
+*.ear
