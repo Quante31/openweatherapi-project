@@ -3,8 +3,8 @@
 app/.settings/
 
 # Compiled binaries
-bin/
-app/bin/
+bin
+app/bin
 
 # Gradle-specific files
 .gradle/
