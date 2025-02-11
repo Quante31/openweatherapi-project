@@ -75,7 +75,7 @@ public class Controller implements Initializable{
 	}
 	private String parseWeather(String format) throws URISyntaxException, IOException, InterruptedException {
 		WeatherService weatherService = new WeatherService();
-		weatherService.setAPIKey("5e2fbd4593bea37d177c8d7956c75e7a");
+		weatherService.setAPIKey("API KEY");
 		
 		Location location = new Location();
 		location.setCityName(cityTextField.getText());
