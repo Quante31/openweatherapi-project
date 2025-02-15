@@ -12,4 +12,4 @@ GUI is done using JavaFX,
 ‎
 Jackson and JavaFX libraries are used.
 
-![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/90c18c39-10cd-434f-bcdd-6b537fba96b2)
+![2025-02-1516-26-19-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/35430ae9-ba3d-4f92-b907-8aefaef36a8e)
