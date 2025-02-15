@@ -25,13 +25,6 @@ public class App extends Application {
 			Image icon = new Image("/cloudy.png");
 			stage.getIcons().add(icon);
 			stage.setTitle("OpenWeather API Program");
-			/*stage.setOnCloseRequest(event -> {
-				event.consume();
-				logout(stage);
-			});*/
-				
-			//setDragable();
-			
 		} catch(Exception e) {
 			e.printStackTrace();
 		}

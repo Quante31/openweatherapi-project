@@ -1,49 +1,39 @@
-.scene1AnchorPane{
-	 /*-fx-background-color: white;
-    -fx-background-radius: 20;
-    -fx-border-radius: 20;
-    -fx-border-color: gray;
-    -fx-border-width: 2;
-    -fx-padding: 10;*/
-
-}
-.scene2AnchorPane{
-	/*  -fx-background-color: white;
-    -fx-background-radius: 20;
-    -fx-border-radius: 20;
-    -fx-border-color: gray;
-    -fx-border-width: 2;
-    -fx-padding: 10;*/
-
-}
-
 .elements{
-	-fx-background-color: #F5CAC3; 
+	-fx-background-color: #051923; 
 	-fx-background-radius: 20;
 	-fx-border-radius: 20;
-	-fx-prompt-text-fill: #1F2F27
+	-fx-prompt-text-fill: #00A6FB;
+	-fx-text-fill: #00A6FB;
 
 }
+.choice-box .label {
+    -fx-text-fill: #00A6FB;
+}
+.menu-item .label {
+    -fx-text-fill: black;  /* Keep dropdown items black */
+}
+
 .rectangle{
 	-fx-background-radius: 20;
 	-fx-border-radius: 20;
 }
 .button{
-	-fx-background-color: #F28482; 
+	-fx-background-color: #051923; 
 	-fx-background-radius: 20;
 	-fx-border-radius: 20;
-	-fx-prompt-text-fill: #1F2F27
-	
+	-fx-text-fill: #00A6FB;
 }
 
 .text-area {
 	-fx-border-radius: 20;
-	-fx-prompt-text-fill: #1F2F27
+	-fx-prompt-text-fill: #00A6FB;
+	-fx-text-fill: #00A6FB;
 }
 .text-area .content{
-	-fx-background-color: #F5CAC3; 
+	-fx-background-color: #051923; 
 	-fx-border-radius: 20;
+	
 }
 .anchorPane{
-	-fx-background-color: #84A59D;
+	-fx-background-color: #003554;
 }

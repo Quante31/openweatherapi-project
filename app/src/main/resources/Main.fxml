@@ -24,6 +24,6 @@
             <Font name="Segoe UI" size="16.0" />
          </font>
       </Button>
-      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#f5cac3" height="46.0" layoutX="15.0" layoutY="14.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" styleClass="elements" width="771.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#051923" height="46.0" layoutX="15.0" layoutY="14.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" styleClass="elements" width="771.0" />
    </children>
 </AnchorPane>
